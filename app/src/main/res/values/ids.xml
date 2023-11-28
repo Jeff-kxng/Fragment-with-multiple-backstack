@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id" />
+    <item name="start_button" type="id" />
+    <item name="welcome_text_view" type="id" />
+    <item name="question_text_view" type="id" />
+    <item name="option_radio_group" type="id" />
+    <item name="option_one_radio_button" type="id" />
+    <item name="option_two_radio_button" type="id" />
+    <item name="option_three_radio_button" type="id" />
+    <item name="option_four_radio_button" type="id" />
+    <item name="next_button" type="id" />
+    <item name="result_text_view" type="id" />
+    <item name="result_progress_bar" type="id" />
+    <item name="back_button" type="id" />
+    <item name="toolbar" type="id" />
+</resources>
